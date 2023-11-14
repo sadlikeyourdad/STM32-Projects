@@ -42,7 +42,6 @@
 UART_HandleTypeDef huart2;
 
 /* USER CODE BEGIN PV */
-uint8_t tx_buffer[30]="\nWelcome to California!\n";
 uint8_t rx_indx;
 uint8_t rx_buffer[100];
 uint8_t rx_data[2];
