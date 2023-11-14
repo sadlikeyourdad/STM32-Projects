@@ -1,12 +1,14 @@
 # STM32-Projects
 A collection of my STM32 projects.
-I use STM32f401RE Nucleo board
+
 STM32 Projects Repository
 Introduction
 Welcome to my STM32 Projects Repository! This repository is a collection of various projects I've undertaken while learning and exploring the STM32 platform and embedded systems in general. The projects range from simple experiments to more complex applications, each aimed at understanding different aspects of STM32 microcontrollers and embedded system design.
 
 Repository Contents
 In this repository, you'll find a variety of STM32 projects, including:
+
+I use STM32F401RE Nucleo board
 
 Basic GPIO Control: Projects involving basic GPIO operations, such as controlling LEDs, reading button states, etc.
 UART Communication: Examples demonstrating UART serial communication, including simple echo programs and more complex data handling.
